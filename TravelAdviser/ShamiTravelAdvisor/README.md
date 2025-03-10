@@ -1,2 +1,0 @@
-# ShamiTravelAdvisor
-travel advisor project
